@@ -1,1 +1,8 @@
-.well-known/assetlinks.json
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.blakelowis.twa",
+    "sha256_cert_fingerprints": ["92:A9:52:64:75:6D:30:85:12:10:69:C5:75:DF:BA:A6:5B:49:34:26:DC:B2:02:98:5E:CA:8E:F3:C2:4A:EE:1D"]
+  }
+}]
